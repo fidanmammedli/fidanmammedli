@@ -1,0 +1,136 @@
+body{
+    background-color: rgba(39, 34, 34, 0.048);
+}
+.nav{
+    display: flex;
+}
+.sekillogo{
+    width: 80px; 
+    height: 80px; 
+    margin left: 40px;
+}
+.butonnav{
+    margin-left: 80%;
+    height: 50px;
+    margin-top: 10px;
+    font-size: 20px;
+    width: 10%;
+    padding: 5px;
+    background-color: rgba(97, 96, 96, 0.185)
+}
+.sent{
+    margin-bottom: 50px;
+    margin-top: 100px;
+    margin-left: 20%;
+    font-family: math;
+    font-size: small;
+    color: black;
+}
+h2{
+    margin-left: 10%;
+    margin-bottom: 50px;
+    font-size: xxx-large;
+    font-family: serif;
+}
+.yeni{
+    font-size: medium;
+    margin-left: 50px;
+    width: 48%;
+    text-align: center;
+    font-family:math;
+}
+.butondiv{
+    margin-left: 10%;
+    font-size: 20px;
+    font-family: math;
+    margin-top: 30px;
+    background-color: rgba(97, 96, 96, 0.185)
+
+}
+.iphone{
+    width: 45%;
+    margin-left: 45%;
+    position: relative;
+    bottom: 350px;
+    left: 90px;
+}
+.terz{
+    text-align: center;
+    margin-bottom: 50px;
+    position: relative;
+    bottom: 200px;
+    font-size: -webkit-xxx-large;
+}
+.reng{
+
+    width: 70%;
+    text-align: center;
+    margin-left: 180px;
+    position: relative;
+    bottom: 170px;
+    color: rgba(17, 17, 16, 0.589);
+    font-family: math;
+}
+.rengli{
+    width: 70%;
+    position: relative;
+    align-items: center;
+    bottom: 150px;
+    left: 200px;
+    height: 500px;
+
+}
+.sekil3 {
+    width: 50%;
+}
+h3{
+    margin-left: 60%;
+    position: relative;
+    bottom: 450px;
+    font-size: xx-large;
+}
+.boyuk{
+    text-align: center;
+    width: 40%;
+    position: relative;
+    bottom: 400px;
+    margin-left: 55%;
+    font-size: larger;
+}
+.endirim{
+    text-align: center;
+    font-size: 50px;
+    width: 50%;
+    position: relative;
+    left: 350px;
+    bottom: 250px;
+}
+.email{
+    
+        font-size: 20px;
+        position: relative;
+        left: 180px;
+        bottom: 180px;
+}
+.qeydiyyat{
+    width: 70%;
+    height: 40px;
+    border-radius: 10px;
+    position: relative;
+    bottom: 180px;
+    left: 150px;
+    background-color:rgba(97, 96, 96, 0.082);
+}
+.abune{
+    position: relative;
+    bottom: 180px;
+    left: 40px;
+    border-style: none;
+    font-size: 18px;
+}
+footer{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    background-color: rgba(39, 34, 34, 0.048);
+}
